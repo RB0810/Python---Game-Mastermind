@@ -34,5 +34,12 @@ correct combination, if he/she does that he/she wins, else they can try again.<b
 
 **Scenario**<br>
 ![image](https://user-images.githubusercontent.com/91309421/222983086-80511d69-787e-4630-bc15-d03298c2af47.png)
+![image](https://user-images.githubusercontent.com/91309421/222983123-0adffd89-6b17-4fa0-99de-a884e031e074.png)
+![image](https://user-images.githubusercontent.com/91309421/222983140-346297fa-231b-4234-a4b9-1d512423c47f.png)
+![image](https://user-images.githubusercontent.com/91309421/222983158-94b2a5cf-7d19-4d4f-ac3d-bb7336cc855e.png)
+![image](https://user-images.githubusercontent.com/91309421/222983185-6c044b76-12d5-4042-9388-efe955668dbf.png)
+![image](https://user-images.githubusercontent.com/91309421/222983201-16f99454-c535-40a3-bcbb-79cb613f3586.png)
+![image](https://user-images.githubusercontent.com/91309421/222983212-b2a1b645-1d93-463f-a490-5142dbb7e075.png)
+
 
 
