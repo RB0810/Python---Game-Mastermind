@@ -32,4 +32,7 @@ peg, one red peg and two black pegs.<br>
 With these pegs as indicators and hints, the player gets 9 guesses to crack the
 correct combination, if he/she does that he/she wins, else they can try again.<br>
 
+**Scenario**<br>
+![image](https://user-images.githubusercontent.com/91309421/222983086-80511d69-787e-4630-bc15-d03298c2af47.png)
+
 
